@@ -12,7 +12,7 @@ export const extensionConfig = {
                     firefox: 'https://addons.mozilla.org/en-US/firefox/addon/polkadot-js-extension/',
                 },
             },
-            iconUrl: '/images/polkadot-js.svg',
+            iconUrl: '/polkadot-logo.svg',
         },
         {
             id: 'talisman',
@@ -25,7 +25,7 @@ export const extensionConfig = {
                     firefox: 'https://addons.mozilla.org/en-US/firefox/addon/talisman-wallet-extension/',
                 },
             },
-            iconUrl: '/images/talisman-icon.svg',
+            iconUrl: '/talisman-logo.svg',
         },
     ],
 };

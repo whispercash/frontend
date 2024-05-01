@@ -1,4 +1,4 @@
-import styles from 'styles/Home.module.css';
+import styles from './web3.module.css';
 
 const shorten = (str: string) => {
   let size = 10;

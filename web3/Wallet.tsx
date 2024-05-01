@@ -3,7 +3,8 @@ import Image from 'next/image';
 import { ApiPromise, WsProvider } from '@polkadot/api';
 import { BaseWallet, Account } from '@polkadot-onboard/core';
 import { AccountBox } from './AccountBox';
-import styles from '../styles/Home.module.css';
+
+import styles from './web3.module.css';
 
 const Wallet = ({ wallet }: { wallet: BaseWallet }) => {
     const [accounts, setAccounts] = useState<Account[]>([]);

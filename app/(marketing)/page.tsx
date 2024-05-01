@@ -7,6 +7,8 @@ import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import { useTheme } from "next-themes";
 
+import ConnectContainer from '@/web3';
+
 const headingFont = localFont({
   src: '../../public/fonts/font.woff2',
 });
@@ -69,6 +71,8 @@ export default function Home() {
           Get started
         </Link>
       </Button>
+
+      <ConnectContainer />
     </div>
 
   );

@@ -5,7 +5,8 @@ import { WalletAggregator } from '@polkadot-onboard/core';
 import { InjectedWalletProvider } from '@polkadot-onboard/injected-wallets';
 import { WalletConnectProvider } from '@polkadot-onboard/wallet-connect';
 import { extensionConfig } from './extensions';
-import styles from 'styles/Home.module.css';
+
+import styles from './web3.module.css';
 
 import Wallets from './Wallets';
 
