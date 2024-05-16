@@ -1,7 +1,8 @@
 # Whisper Cash
 
-Whisper Cash is a natural language-based smart wallet built on the Vara Blockchain. It leverages OpenAI APIs, Vercel's AI SDK, and `@polkadot/extension-dapp` to provide users with a seamless experience when interacting with the Vara blockchain
-![Banner of Whispercash](https://ibb.co/M5fnym6).
+Whisper Cash is a natural language-based smart wallet built on the Vara Blockchain. It leverages OpenAI APIs, Vercel's AI SDK, and `@polkadot/extension-dapp` to provide users with a seamless experience when interacting with the Vara blockchain.
+
+![Banner of Whispercash](https://ibb.co/M5fnym6)
 (https://ibb.co/M5fnym6)
 ## Features
 
